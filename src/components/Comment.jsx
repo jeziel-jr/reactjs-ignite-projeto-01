@@ -16,11 +16,11 @@ export function Comment() {
                             </div>
 
                             <button title='Deletar comentário'>
-                                <Trash size={20} />
+                                <Trash size={24} />
                             </button>
                         </header>
 
-                        <p>Muito bom Devon, parabéns!! 👏👏</p>
+                        <p>Muito bom Jeziel, parabéns!! 👏👏</p>
                     </div>
 
                     <footer>
