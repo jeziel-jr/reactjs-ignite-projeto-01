@@ -15,6 +15,7 @@ function App() {
         <Sidebar />
         <main>
           <Post author="Jeziel Junior" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae sequi ab provident ut nobis dolore architecto at! Exercitationem eum asperiores ex delectus similique beatae facere mollitia facilis animi, non fugiat." />
+          <Post author="Jeziel Junior" content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae sequi ab provident ut nobis dolore architecto at! Exercitationem eum asperiores ex delectus similique beatae facere mollitia facilis animi, non fugiat." />
         </main>
       </div>
     </>
